@@ -1,0 +1,25 @@
+baseURL = "alinaozhegova.github.io"
+languageCode = "en-us"
+title = "Alina Ozhegova"
+theme = "researcher"
+enableGitInfo = true
+
+[params]
+  name = "Alina Ozhegova"
+  role = "Assistant Professor of Economics"
+  email = "alina@example.com"
+  profileImage = "img/profile.jpg"
+
+  [params.address]
+    city = "Helsinki"
+    country = "Finland"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/alinazhegova"
+
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/your-profile"
