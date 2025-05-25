@@ -1,4 +1,4 @@
-baseURL = "alinaozhegova.github.io"
+baseURL = "https://alinaozhegova.github.io/alina_website/"
 languageCode = "en-us"
 title = "Alina Ozhegova"
 theme = "researcher"
