@@ -1,4 +1,4 @@
-baseURL = "https://alinaozhegova.github.io/alina_website/"
+baseURL = "https://alinaozhegova.netlify.app"
 languageCode = "en-us"
 title = "Alina Ozhegova"
 theme = "researcher"
