@@ -28,3 +28,6 @@ enableGitInfo = true
   name = "Contact"
   url = "/contact/"
   weight = 5
+
+[params]
+  profileImage = "img/profile.jpg"
