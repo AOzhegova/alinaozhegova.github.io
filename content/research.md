@@ -1,5 +1,6 @@
 ---
 title: "Research"
+draft: false
 ---
 
 ### Work in Progress
@@ -14,7 +15,7 @@ With Anders Munk-Nielsen and Morten Sæthre
 
 We study the entry decisions of the three retail pharmacy chains in Norway over the period from 2004 to 2012. Following deregulation of entry, the market grew rapidly, doubling the number of pharmacies. We document that repeated entry by an already present incumbent chain occurs with non-trivial frequency and set out to investigate whether preemptive motives play a key role. We propose and estimate a highly flexible spatial demand model with overlapping sets of consumers across space. While the estimates imply substantial demand heterogeneity, we reject the hypothesis that the repeated incumbent entries can be explained by market segmentation by store format differentiation. Instead, we propose that private information about local market conditions may play a role. Indeed, we find that an incumbent chain is significantly more likely to respond to local market heterogeneity than competing chains.
 
-#### Breaking Barriers: Investigating the Effect of Restrictive Covenants on Entry Deterrence in Retail
+#### Breaking Barriers: Investigating the Effect of Non-compete Clauses on Entry Deterrence in Retail
 
 With Fedor Iskhakov
 
