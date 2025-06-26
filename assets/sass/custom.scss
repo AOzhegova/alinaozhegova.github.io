@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+$font-family: "Lora", serif;
+$font-size: 12pt;
+
+body {
+  font-family: $font-family;
+  font-size: $font-size;
+  line-height: 1.6;
+}

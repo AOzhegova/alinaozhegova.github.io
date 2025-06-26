@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body {
+  font-family: 'Lora', serif !important;
+  font-size: 10px !important;
+  line-height: 1.6;
+}
+
+#content p {
+  font-size: 10px !important;
+}
+
+#content h1, #content h2, #content h3 {
+  font-family: 'Helvetica Neue', sans-serif !important;
+}
