@@ -38,3 +38,6 @@ enableGitInfo = true
     avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
+  custom_css = ["css/custom.scss"]
+
+  
