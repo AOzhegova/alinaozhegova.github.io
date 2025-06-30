@@ -30,6 +30,7 @@ enableGitInfo = true
   weight = 5
 
 [params]
+  custom_css = ["css/custom.css"]
 
 
   
