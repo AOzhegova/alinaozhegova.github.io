@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alina Ozhegova</title>
-    <link>https://alinaozhegova.netlify.app/</link>
-    <description>Recent content on Alina Ozhegova</description>
+    <title>&lt;strong&gt;Alina Ozhegova&lt;/strong&gt; on Alina Ozhegova</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in &lt;strong&gt;Alina Ozhegova&lt;/strong&gt; on Alina Ozhegova</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://alinaozhegova.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://alinaozhegova.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alinaozhegova.netlify.app/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;You can reach me at:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:alina.ozhegova@aalto.fi&#34;&gt;alina.ozhegova@aalto.fi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Alternate Email&lt;/strong&gt;: &lt;a href=&#34;mailto:alinozhegova@gmail.com&#34;&gt;alinozhegova@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.aalto.fi/en/people/alina-ozhegova&#34;&gt;University Profile&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>https://alinaozhegova.netlify.app/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alinaozhegova.netlify.app/cv/</guid>
-      <description>&lt;p&gt;You can download my full CV here: &lt;a href=&#34;https://alinaozhegova.netlify.app/cv/CV.pdf&#34;&gt;CV.pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;You can download my full CV here: &lt;a href=&#34;http://localhost:1313/cv/CV.pdf&#34;&gt;CV.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://alinaozhegova.netlify.app/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alinaozhegova.netlify.app/research/</guid>
-      <description>&lt;h3 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h3&gt;&#xA;&lt;h4 id=&#34;assortment-choice-and-market-power-under-uniform-pricing&#34;&gt;Assortment Choice and Market Power under Uniform Pricing&lt;/h4&gt;&#xA;&lt;p&gt;This paper studies how retailers strategically use product assortment to respond to local market conditions when prices are set at the national level. When firms cannot increase the price of a product that is particularly popular in a local market, they can instead replace the product with a more expensive substitute. The profitability of these assortment substitutions depends on the degree of market competition. This study uses extensive receipt and store-level data and a structural equilibrium model to distinguish the impact of market power on assortment choice from other market forces, such as logistics costs. The findings confirm that firms make use of assortment choices, offering fewer and pricier products in markets with stronger local market power. I show that a uniform assortment would benefit consumers but would reduce firm profits. Counterfactual policy experiments reveal that government intervention can improve total market welfare through subsidies to consumers or retailers in remote areas.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;&#xA;&lt;h4 id=&#34;a-theory-of-monopolistic-competition-with-horizontally-heterogeneous-consumers&#34;&gt;&lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/mic.20200453&#34;&gt;A Theory of Monopolistic Competition with Horizontally Heterogeneous Consumers&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;with Sergey Kokovin, Shamil Sharapudinov, Alexander Tarasov, and Philip Ushchev&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Published in AEJ: Micro&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our novel approach to modeling monopolistic competition with heterogeneous firms and consumers involves spatial product differentiation. Space can be interpreted either as a geographical space or as a space of characteristics of a differentiated good. In addition to price setting, each firm also chooses its optimal location in this space. We formulate conditions for positive sorting: more productive firms serve larger market segments and face tougher competition; and for the existence and uniqueness of the equilibrium. To quantify the role of the sorting mechanism, we calibrate the model using cross-sectional data on the haircut market in Bergen, Norway, and perform a counterfactual analysis. We find that inequality in the distribution of the gains among consumers caused by positive market shocks can be substantial: the gains of consumers from more populated locations are 3-4 times higher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://alinaozhegova.netlify.app/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alinaozhegova.netlify.app/teaching/</guid>
-      <description>&lt;h3 id=&#34;aalto-university&#34;&gt;Aalto University&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Empirical Industrial Organization&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Lecturer: 2024&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachelor&amp;rsquo;s Thesis and Seminar&lt;/strong&gt;, B.Sc. level&lt;br&gt;&#xA;Lecturer: 2025&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;norwegian-school-of-economics&#34;&gt;Norwegian School of Economics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Driven Market Analysis&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Lecturer: 2024&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Econometrics&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Teaching Assistant: 2020, 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Retail Analytics&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Teaching Assistant: 2021, 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Optimization and Microeconomic Theory&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Teaching Assistant: 2020, 2021&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;higher-school-of-economics&#34;&gt;Higher School of Economics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction to Machine Learning&lt;/strong&gt;, B.Sc. level&lt;br&gt;&#xA;Lecturer: 2019 (Best Teacher Award elected by HSE students)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h3 id=&#34;aalto-university&#34;&gt;Aalto University&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Empirical Industrial Organization&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Lecturer: 2024&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor&amp;rsquo;s Thesis and Seminar&lt;/strong&gt;, B.Sc. level&lt;br&gt;&#xA;Lecturer: 2025&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;norwegian-school-of-economics&#34;&gt;Norwegian School of Economics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Driven Market Analysis&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Lecturer: 2024&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Econometrics&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Teaching Assistant: 2020, 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Retail Analytics&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Teaching Assistant: 2021, 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Optimization and Microeconomic Theory&lt;/strong&gt;, M.Sc. level&lt;br&gt;&#xA;Teaching Assistant: 2020, 2021&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;higher-school-of-economics&#34;&gt;Higher School of Economics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction to Machine Learning&lt;/strong&gt;, B.Sc. level&lt;br&gt;&#xA;Lecturer: 2019 (Best Teacher Award elected by HSE students)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

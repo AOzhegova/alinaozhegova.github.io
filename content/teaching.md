@@ -6,8 +6,11 @@ title: "Teaching"
 
 - **Empirical Industrial Organization**, M.Sc. level  
   Lecturer: 2024
+  
 - **Bachelor's Thesis and Seminar**, B.Sc. level  
   Lecturer: 2025
+
+<br>
 
 ### Norwegian School of Economics
 
@@ -22,6 +25,8 @@ title: "Teaching"
 
 - **Optimization and Microeconomic Theory**, M.Sc. level  
   Teaching Assistant: 2020, 2021
+
+<br>
 
 ### Higher School of Economics
 
