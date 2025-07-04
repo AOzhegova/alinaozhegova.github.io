@@ -1,5 +1,5 @@
 ---
-title: "<strong>Alina Ozhegova</strong>"
+title: "Alina Ozhegova"
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">

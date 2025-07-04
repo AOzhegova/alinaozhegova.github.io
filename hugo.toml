@@ -29,15 +29,15 @@ enableGitInfo = true
   url = "/contact/"
   weight = 5
 
-[params]
-  custom_css = ["css/custom.css"]
-  profileImage = "img/alina.png"
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-[params.style]
-  fontSize = "12pt"
+[params]
+  custom_css = ["css/custom.css"]
+  profileImage = "img/alina.png"
+  favicon = "favicon.png"
+
+  [params.style]
+    fontSize = "12pt"
